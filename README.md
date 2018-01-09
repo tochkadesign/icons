@@ -1,2 +1,0 @@
-# icons
-Tochka Icon Library
